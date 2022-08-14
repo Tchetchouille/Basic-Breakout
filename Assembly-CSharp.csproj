@@ -60,6 +60,8 @@
     <Compile Include="Assets\Scripts\Ball.cs" />
     <Compile Include="Assets\TrashCan\DrawBricks.cs" />
     <Compile Include="Assets\Scripts\PlayerBar.cs" />
+    <Compile Include="Assets\Scripts\DrawBrick.cs" />
+    <Compile Include="Assets\Scripts\BrickSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
